@@ -1,0 +1,4 @@
+- 👋 Hi, I’m hussein junior
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me : s7s.tec@gmail.com
